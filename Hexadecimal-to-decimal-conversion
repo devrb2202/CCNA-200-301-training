@@ -1,0 +1,37 @@
+
+HEXADECIMAL = 4 BITS
+
+8   4   2   1   =   15 => (SEMI-DECIMAL)
+
+0   6       B = 11
+1   7       C = 12
+2   8       D = 13
+3   9       E = 14
+4   A = 10  F = 15
+5
+
+NOTE: ALWAYS CONVERT BACK TO BINARY
+KAPAG BINARY NA SAKA PALANG TAYO MAKAKAPAG CONVERT PARA SA FINAL PRODUCT
+
+> HEXADECIMAL > SEMI-DECIMAL
+> SEMI-DECIMAL > BINARY
+> BINARY > DECIMAL
+
+EXAMPLE
+HEXADECIMAL TO SEMI-DECIMAL
+5C = 5, 12
+
+SEMI-DECIMAL TO BINARY
+5C = 0  1   0   1   1   1   0   0
+
+BINARY TO DECIMAL
+-----------------------------
+128 64  32  16  8   4   2   1
+-----------------------------
+0   1   0   1   1   1   0   0
+-----------------------------
+
+ANSWER
+64 + 16 + 12 = 92
+
+
